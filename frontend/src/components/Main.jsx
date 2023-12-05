@@ -72,7 +72,9 @@ export default function Main() {
                 }
             
                 console.log(formData);
-            const response = await axios.post("http://localhost:3000/api/v1/getWeather", formData, {
+
+                const url = `${import.meta.env.VITE_API_BASE_URL}/api/v1/getWeather`;
+            const response = await axios.post(url, formData, {
                 headers : {
                     "Content-Type" : "application/json"
                 }
