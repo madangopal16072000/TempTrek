@@ -38,6 +38,9 @@ The City Weather Forecast project is a web application that leverages the OpenWe
 
 ## Usage
 
+**Deployment Link**
+[TempTrek](https://temp-trek-madangopal16072000.vercel.app/)
+
 **Demo Video**
 [![Demo](http://img.youtube.com/vi/QbgQwmLOIcY/0.jpg)](https://youtu.be/QbgQwmLOIcY "Video Title")
 
