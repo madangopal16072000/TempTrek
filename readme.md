@@ -49,3 +49,7 @@ The City Weather Forecast project is a web application that leverages the OpenWe
 - See Weather Forecast of Specified Location
 - Implemented Redis Caching for Fast Retrival of Data
 - Used OpenWeatherMap API for Weather Forecast
+
+## Screenshots
+![image](https://github.com/madangopal16072000/TempTrek/assets/109917122/870ce1c0-b889-43d5-8472-87ed37f2d8b2)
+![image](https://github.com/madangopal16072000/TempTrek/assets/109917122/1c8a5d1b-dbaf-4b07-83d4-559e2a52c99f)
